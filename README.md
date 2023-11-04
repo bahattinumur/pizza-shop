@@ -1,6 +1,6 @@
 <h1> PIZZA SHOP WEBSITE </h1>
 
-This is the interface example of a tour website .
+This is the interface example of a pizza shop website .
 
 Designed to be suitable different screen sizes. (Full Responsive)
 
